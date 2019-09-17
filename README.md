@@ -12,14 +12,14 @@ Link to the UI concept:
 
 https://lnkd.in/dEU_srX
 
-##Home
+## Home
 
 ![alt text](https://i.ibb.co/1vDXD04/Screenshot-20190917-200320.jpg)
 
-##Detail
+## Detail
 
 ![alt text](https://i.ibb.co/6YqKzsc/Screenshot-20190917-200327.jpg)
 
-##Paiment
+## Paiment
 
 ![alt text](https://i.ibb.co/0hwyhJn/Screenshot-20190917-200333.jpg)
